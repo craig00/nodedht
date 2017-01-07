@@ -1,0 +1,15 @@
+{
+  "name": "nodedht",
+  "version": "1.0.0",
+  "private": true,
+  "description": "a dht client",
+  "main": "nodedht.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "craig",
+    "license": "ISC",
+    "dependencies":{
+     "bencode":"latest"
+   }
+ }
